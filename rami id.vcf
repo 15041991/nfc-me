@@ -1,13 +1,17 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Yazbeck;Rami;;;
-FN:Rami Yazbeck
-ORG:Implant Direct\, Envista
+N;CHARSET=UTF-8:Yazbeck;Rami;;;
+FN;CHARSET=UTF-8:Rami Yazbeck
+ORG:Implant Direct, Envista
 TITLE:Regional Sales Representative
+
+TEL;TYPE=CELL:3653785787
+TEL;TYPE=WORK:8886496425
+
 ADR;TYPE=WORK:;;3050 E. Hillcrest Dr.;Thousand Oaks;CA;91362;USA
-TEL;TYPE=CELL:365-378-5787
-TEL;TYPE=WORK,VOICE:888-649-6425
+
 EMAIL;TYPE=WORK:rami.yazbeck@envistaco.com
 URL:https://www.implantdirect.com
-NOTE:Customer Care: 888-649-6425
+
+NOTE:Customer Care - 888-649-6425
 END:VCARD
